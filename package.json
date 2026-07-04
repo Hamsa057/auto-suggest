@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hamsa057/auto-suggest.git"
+    "url": "git+https://github.com/24wh1a05ar-art/auto-suggest.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Hamsa057/auto-suggest/issues"
+    "url": "https://github.com/24wh1a05ar-art/auto-suggest/issues"
   },
-  "homepage": "https://github.com/Hamsa057/auto-suggest#readme",
+  "homepage": "https://github.com/24wh1a05ar-art/auto-suggest#readme",
   "dependencies": {
     "express": "^5.2.1"
   }
